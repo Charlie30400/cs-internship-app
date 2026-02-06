@@ -1,3 +1,3 @@
-/**********\*\*\*\***********\*\***********\*\*\*\***********\*\***********\*\*\*\***********\*\***********\*\*\*\***********/
-De acuerdo con los requisitos del curso COMP 4910 se requiere realizar un proyecto que comprenda todo el conocimiento adquerido atraves de los años de estudio. Decidi realizar el proyecto diseñado para mejorar la comunicación y interación entre estudiantes y compañia en el proceso de busqueda de interndaos.
-Es un sistema CRUD (create, read, update, delete) donde se puden crear registros de estudiantes, compañia, departamento. Luego para utilizar los datos en la sección de internados para enviar reportes nuevos.
+
+This project was developed in accordance with the requirements of COMP 4910, which mandates a capstone-style project demonstrating the knowledge and skills acquired throughout the Computer Science program.
+The goal of this system is to improve communication and interaction between students and companies during the internship search process.
