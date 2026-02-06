@@ -1,0 +1,33 @@
+
+
+.frm-Title {
+  margin-bottom: 25px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #62757f;
+}
+
+.icon {
+  margin-left: 30%;
+  margin-bottom: 35px;
+}
+
+input[type=text],
+input[type=email],
+input[type=phone],
+input[type=date],
+input[type=tel],
+textarea {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+select {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+
+
+table tr td:last-child {
+    width: 120px;
+}
+
+table {
+    background-color: #90a4ae;
+}
+
+.table-head {
+    background-color:  #424949;
+    color: #e0f2f1;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+.table-title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #e0f2f1;
+    margin-left: 55%;
+}
+
